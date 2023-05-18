@@ -2,10 +2,10 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'BambuStudio Kasm Workspace',
+    description: 'Repository containing Kasm Workspace for Bambu Studio.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
+    listUrl: 'https://michaeljones32.github.io/kasm-repository/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
